@@ -27,7 +27,7 @@ Cílem je zjistit ideální počet skupin a přiřadit každé skupině vhodný 
 - Doporučujeme zaměřit marketingové kampaně na produkty oblíbené v této skupině.
 - **Klastr 1** (mladí impulzivní zákazníci) je ideální pro marketing prodejních akcí a limitovaných nabídek.
 
-![Výsledný graf](images/output.png)
+![Výsledný graf](output.png)
 
 
 ### Segmenty zákazníků
