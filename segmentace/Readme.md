@@ -24,7 +24,7 @@ Cílem je zjistit ideální počet skupin a přiřadit každé skupině vhodný 
 ## Výsledky
 - **Cílovou skupinou je klastr 2**, který má vysoké skóre utrácení a vysoký příjem.
 - 60 % nakupujících v klastru 2 tvoří ženy.
-- Doporučujeme zaměřit marketingové kampaně na produkty oblíbené v této skupině.
+- Doporučuji zaměřit marketingové kampaně na produkty oblíbené v této skupině.
 - **Klastr 1** (mladí impulzivní zákazníci) je ideální pro marketing prodejních akcí a limitovaných nabídek.
 
 ![Výsledný graf](output.png)
