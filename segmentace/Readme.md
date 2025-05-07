@@ -41,7 +41,7 @@ Cílem je zjistit ideální počet skupin a přiřadit každé skupině vhodný 
 
 ## 🧠 Postup analýzy zákazníků
 
-### 1. Získání a poznání dat
+### 1. Získání dat
 - Analýza základních údajů: věk, příjem, skóre utrácení.
 - Identifikace potenciálních skupin a rozdílů mezi pohlavími.
 
