@@ -2,7 +2,7 @@
 # 📈 Projekt: Segmentace zákazníků nákupního centra
 
 ## Kontext
-Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků na základě příjmu, věku a nákupního skóre v obchodním centru. Cílem je určit ideální počet skupin a přiřadit každé skupině vhodný název.
+Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků na základě příjmu, věku a skóre utrácení v obchodním centru.
 
 ## Cíl projektu: Segmentace trhu
 - Rozdělit cílový trh nákupního centra na snadno oslovitelné skupiny.
