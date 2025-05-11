@@ -13,6 +13,9 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 - Porovnávat data mezi měsíci (MTD, MoM)
 - Rozlišovat mezi různými stavy půjček (splacené, po splatnosti, defaultní)
 
+## Data
+- 38 576 záznamů
+
 ---
 
 ## 📈 Požadavky na KPI
