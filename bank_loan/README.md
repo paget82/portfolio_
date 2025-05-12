@@ -79,7 +79,7 @@ Poskytuje hierarchický pohled na to, jak vlastnictví nemovitosti ovlivňuje ž
 
 
 
-## ⚙️ Použité funkce v Power BI
+##  Použité funkce v Power BI
 - `SUM`, `COUNT`, `IF`
 - `AVERAGE`
 - `TOTALYTD`, `TOTALMTD`
