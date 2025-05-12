@@ -1,5 +1,5 @@
 
-# 📈 Projekt: Segmentace zákazníků nákupního centra
+#  Projekt: Segmentace zákazníků nákupního centra
 
 ## Kontext
 Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků na základě příjmu, věku a skóre utrácení v obchodním centru.
@@ -18,7 +18,7 @@ Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků n
 ## Data
 - 200 záznamů
 
----
+
 
 ## Výsledky
 - **Cílovou skupinou je klastr 2**, který má vysoké skóre utrácení a vysoký příjem.
@@ -36,9 +36,9 @@ Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků n
 3. Průměrní zákazníci s neutrálním chováním.  
 4. Zákazníci s nízkým příjmem a nízkým utrácením (*minimální význam pro marketing*).
 
----
 
-## 🧠 Postup analýzy zákazníků
+
+##  Postup analýzy zákazníků
 
 ### 1. Získání dat
 - Analýza základních údajů: věk, příjem, skóre utrácení.
@@ -61,13 +61,13 @@ Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků n
 ### 6. Vizualizace klastrů
 - Scatterploty znázorňující zákazníky podle příslušnosti ke klastru.
 
----
 
-## ✅ Shrnutí
+
+##  Shrnutí
 - Jasné rozdělení zákazníků podle jejich chování.
 - Možnost cíleného marketingu – efektivnější kampaně.
 - Podpora plánování nových služeb a produktů na základě dat.
 - Nahrazení domněnek skutečnými analytickými poznatky.
 
----
+
 
