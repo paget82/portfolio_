@@ -6,7 +6,7 @@ Vzhledem k velkému množství žádostí a financovaných částek je důležit
 
 ### 📁 Soubory ke stažení
 - 📄 [SQL dotazy](./scripts/hotel_queries.sql) – Skript pro extrakci, transformaci a agregaci dat.
-- 📊 [Power BI report](Bank Loan Report.pbix) – Interaktivní vizualizace hlavních metrik.
+- 📊 [Power BI report](BankLoanReport.pbix) – Interaktivní vizualizace hlavních metrik.
 
 ## Cíl projektu
 Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard pomocí **Power BI**, který umožní managementu:
