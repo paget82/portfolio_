@@ -20,7 +20,9 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 - Porovnávat data mezi měsíci (MTD, MoM)
 - Rozlišovat mezi různými stavy půjček (splacené, po splatnosti, defaultní)
 
-![Výsledný graf](bank01.png)
+![Dashboard](bank01.png)
+![Dashboard](bank02.png)
+![Dashboard](bank03.png)
 
 
 ## Data
