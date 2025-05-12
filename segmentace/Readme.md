@@ -13,6 +13,9 @@ Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků n
 - Vytvořit podskupiny trhu na základě demografických a behaviorálních kritérií.
 - Pochopit cílové zákazníky pro plánování marketingové strategie.
 
+![Výsledný graf](output.png)
+
+
 ## Použité nástroje a technologie
 - Python, Pandas, Seaborn, Matplotlib, Sklearn
 
@@ -30,7 +33,6 @@ Požadavek klienta je identifikovat nejdůležitější skupiny zákazníků n
 - Doporučuji zaměřit marketingové kampaně na produkty oblíbené v této skupině.
 - **Klastr 1** (mladí impulzivní zákazníci) je ideální pro marketing prodejních akcí a limitovaných nabídek.
 
-![Výsledný graf](output.png)
 
 
 ### Segmenty zákazníků
