@@ -5,8 +5,9 @@ Společnost poskytující osobní půjčky potřebuje přehledné a interaktivn�
 Vzhledem k velkému množství žádostí a financovaných částek je důležité mít nástroj umožňující sledování klíčových metrik a trendů v čase.
 
 ### 📁 Soubory ke stažení
-- 📄 [SQL dotazy](Dashboard%20bankovních%20půjček%20SQL%20dotazy.pdf) – Analýza pomocí SQL dotazů
+- 📄 [PDF](Dashboard%20bankovních%20půjček%20SQL%20dotazy.pdf) – Analýza pomocí SQL dotazů
 - 📊 [Power BI report](Bank%20Loan%20Report.pbix) –  Projekt: Dashboard bankovních půjček v PowerBI
+- 📊 [PDF](Dashboard%20bankovních%20půjček%20postup.pdf) –  Postup vypracování projektu    
 
 ## Cíl projektu
 Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard pomocí **Power BI**, který umožní managementu:
