@@ -58,14 +58,6 @@ Tabulka obsahuje tyto metriky:
 ---
 
 ##  Vizualizace
-- **Monthly Trends by Issue Date**: identifikace sezónnosti a dlouhodobých trendů v úvěrových aktivitách
-- **Loan Term Analysis**: rozložení půjček podle délky splatnosti
-- **Employee Length Analysis**: vztah mezi délkou zaměstnání a žádostmi o půjčku
-- **Loan Purpose Breakdown**: rozdělení účelu půjček
-- **Home Ownership Analysis**: vliv vlastnictví nemovitosti na schválení půjčky
-
-
-
 - **Monthly Trends by Issue Date – _Měsíční trendy podle data vydání_**  
 Slouží k identifikaci sezónnosti a dlouhodobých trendů v úvěrových aktivitách.
 - **Loan Term Analysis – _Analýza délky půjčky_**  
