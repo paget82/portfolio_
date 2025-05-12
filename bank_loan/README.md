@@ -1,13 +1,13 @@
-# 📊 Projekt: Dashboard bankovních půjček
+#  Projekt: Dashboard bankovních půjček
 
 ## Kontext
 Společnost poskytující osobní půjčky potřebuje přehledné a interaktivní řešení pro sledování a analýzu svých půjček.  
 Vzhledem k velkému množství žádostí a financovaných částek je důležité mít nástroj umožňující sledování klíčových metrik a trendů v čase.
 
-### 📁 Soubory ke stažení
+###  Soubory ke stažení
 - 📄 [PDF](Dashboard%20bankovních%20půjček%20SQL%20dotazy.pdf) – Analýza pomocí SQL dotazů
-- 📊 [Power BI report](Bank%20Loan%20Report.pbix) –  Projekt: Dashboard bankovních půjček v PowerBI
-- 📊 [PDF](Dashboard%20bankovních%20půjček%20postup.pdf) –  Postup vypracování projektu    
+- 📊 [Power BI report](Bank%20Loan%20Report.pbix) – Dashboard bankovních půjček v Power BI
+- 🧾 [PDF](Dashboard%20bankovních%20půjček%20postup.pdf) – Postup vypracování projektu
 
 ## Cíl projektu
 Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard pomocí **Power BI**, který umožní managementu:
@@ -22,8 +22,11 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 - 38 576 záznamů
 
 ---
+## Použité nástroje a technologie
+- Excel, SQL, Power BI
 
-## 📈 Požadavky na KPI
+
+##  Požadavky na KPI
 - **Total Loan Applications** (počet žádostí)
   - Počet žádostí od začátku měsíce (MTD)
   - Měsíční změny (MoM)
@@ -42,7 +45,7 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 
 ---
 
-## 📊 Tabulka: Stav půjčky (Loan Status)
+##  Tabulka: Stav půjčky (Loan Status)
 Tabulka obsahuje tyto metriky:
 - Celkový počet žádostí
 - Celková vyplacená částka
@@ -54,7 +57,7 @@ Tabulka obsahuje tyto metriky:
 
 ---
 
-## 📉 Vizualizace
+##  Vizualizace
 - **Monthly Trends by Issue Date**: identifikace sezónnosti a dlouhodobých trendů v úvěrových aktivitách
 - **Loan Term Analysis**: rozložení půjček podle délky splatnosti
 - **Employee Length Analysis**: vztah mezi délkou zaměstnání a žádostmi o půjčku
@@ -63,7 +66,7 @@ Tabulka obsahuje tyto metriky:
 
 ---
 
-## 🎯 Přínos
+##  Přínos
 - Okamžitý přehled o výkonnosti portfolia půjček
 - Odhalení sezónních trendů a regionálních rozdílů
 - Efektivnější rozhodování založené na datech
