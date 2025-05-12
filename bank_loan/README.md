@@ -4,6 +4,10 @@
 Společnost poskytující osobní půjčky potřebuje přehledné a interaktivní řešení pro sledování a analýzu svých půjček.  
 Vzhledem k velkému množství žádostí a financovaných částek je důležité mít nástroj umožňující sledování klíčových metrik a trendů v čase.
 
+### 📁 Soubory ke stažení
+- 📄 [SQL dotazy](./scripts/hotel_queries.sql) – Skript pro extrakci, transformaci a agregaci dat.
+- 📊 [Power BI report](Bank Loan Report.pbix) – Interaktivní vizualizace hlavních metrik.
+
 ## Cíl projektu
 Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard pomocí **Power BI**, který umožní managementu:
 - Sledovat celkový počet žádostí o půjčku
