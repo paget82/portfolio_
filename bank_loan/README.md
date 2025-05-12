@@ -64,6 +64,21 @@ Tabulka obsahuje tyto metriky:
 - **Loan Purpose Breakdown**: rozdělení účelu půjček
 - **Home Ownership Analysis**: vliv vlastnictví nemovitosti na schválení půjčky
 
+
+
+- **Monthly Trends by Issue Date – _Měsíční trendy podle data vydání_**  
+Slouží k identifikaci sezónnosti a dlouhodobých trendů v úvěrových aktivitách.
+- **Loan Term Analysis – _Analýza délky půjčky_**  
+Umožňuje pochopit rozložení půjček podle různých délek splatnosti.
+- **Employee Length Analysis – _Analýza délky zaměstnání_**  
+Zobrazuje, jak jsou úvěrové metriky rozloženy mezi žadatele s různou délkou pracovního poměru, což pomáhá posoudit vliv pracovní historie na žádosti o půjčku.
+- **Loan Purpose Breakdown – _Rozdělení účelu půjček_**  
+Nabízí vizuální rozdělení úvěrových metrik podle uvedených účelů půjček a pomáhá pochopit hlavní důvody, proč si žadatelé půjčují.
+- **Home Ownership Analysis – _Analýza vlastnictví nemovitosti_**  
+Poskytuje hierarchický pohled na to, jak vlastnictví nemovitosti ovlivňuje žádosti o půjčku a jejich schválení.
+
+
+
 ---
 
 ##  Přínos
