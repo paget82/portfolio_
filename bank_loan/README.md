@@ -21,7 +21,7 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 ## Data
 - 38 576 záznamů
 
----
+
 ## Použité nástroje a technologie
 - Excel, SQL, Power BI
 
@@ -43,7 +43,7 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
   - Průměrný DTI od začátku měsíce (MTD)
   - Měsíční změny (MoM)
 
----
+
 
 ##  Tabulka: Stav půjčky (Loan Status)
 Tabulka obsahuje tyto metriky:
@@ -55,7 +55,7 @@ Tabulka obsahuje tyto metriky:
 - Průměrná úroková sazba
 - Průměrný DTI
 
----
+
 
 ##  Vizualizace
 - **Monthly Trends by Issue Date – _Měsíční trendy podle data vydání_**  
@@ -71,14 +71,13 @@ Poskytuje hierarchický pohled na to, jak vlastnictví nemovitosti ovlivňuje ž
 
 
 
----
 
 ##  Přínos
 - Okamžitý přehled o výkonnosti portfolia půjček
 - Odhalení sezónních trendů a regionálních rozdílů
 - Efektivnější rozhodování založené na datech
 
----
+
 
 ## ⚙️ Použité funkce v Power BI
 - `SUM`, `COUNT`, `IF`
